@@ -77,6 +77,7 @@ public class ATMachineTest {
 
     }
 
+
     @Test
     public void itCompiles() {
         assertThat(true, Matchers.equalTo(true));
